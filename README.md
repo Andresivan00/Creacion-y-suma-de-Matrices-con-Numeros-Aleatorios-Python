@@ -1,4 +1,4 @@
-# Tres Ejercicios Clásicos de Matrices con Números Aleatorios (Python)
+# Creacion y suma de Matrices con Numeros Aleatorios en Python
 
 Programa educativo con **3 ejercicios fundamentales** para aprender a trabajar con **matrices** (listas de listas) en Python usando números aleatorios.
 
